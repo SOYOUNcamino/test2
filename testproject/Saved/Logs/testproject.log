@@ -796,3 +796,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.01-01.43.29:368][280]LogSavePackage: Moving '../../../../../../Users/Reality/Documents/GitHub/test2/testproject/Saved/BP_PlayerController_test53D6ED7E43897C90C9D06DAE4DFB1297.tmp' to '../../../../../../Users/Reality/Documents/GitHub/test2/testproject/Content/FirstPersonBP/BP_PlayerController_test.uasset'
 [2022.09.01-01.43.29:377][280]AssetCheck: New page: Asset Save: BP_PlayerController_test
 [2022.09.01-01.43.29:377][280]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BP_PlayerController_test.BP_PlayerController_test
+[2022.09.01-01.45.01:068][732]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/BP_PlayerController_test.BP_PlayerController_test
+[2022.09.01-01.45.01:253][732]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.09.01-01.45.03:760][879]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.01-01.45.12:823][916]BlueprintLog: New page: Compile BP_PlayerController_test
+[2022.09.01-01.45.12:846][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.09.01-01.45.28:671][342]LogSavePackage: Moving '../../../../../../Users/Reality/Documents/GitHub/test2/testproject/Saved/BP_PlayerController_test37799BB64D879C95525F1C8A7A7C7B04.tmp' to '../../../../../../Users/Reality/Documents/GitHub/test2/testproject/Content/FirstPersonBP/BP_PlayerController_test.uasset'
+[2022.09.01-01.45.28:680][342]AssetCheck: New page: Asset Save: BP_PlayerController_test
+[2022.09.01-01.45.28:680][342]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BP_PlayerController_test.BP_PlayerController_test
+[2022.09.01-01.45.29:703][465]LogSlate: Window 'BP_PlayerController_test' being destroyed
+[2022.09.01-01.45.29:707][465]LogSlate: Window 'BP_PlayerController_test' being destroyed
+[2022.09.01-01.45.29:708][465]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.09.01-01.45.29:709][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.01-01.45.32:421][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
